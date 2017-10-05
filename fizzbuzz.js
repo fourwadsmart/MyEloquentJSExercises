@@ -1,7 +1,8 @@
-/***************************
- *        FizzBuzz         *
- *    Exercise, page 40    *
-****************************/
+/*********************************
+ *  Chapter 2 Program Structure  *
+ *          FizzBuzz             *
+ *       Exercise, page 41       *
+**********************************/
 
 function fizzBuzz() {
 	for(i = 0; i <= 100; i++) {
